@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="hello_world">hello world!</string>
+    <string name="button_take">Take</string>
+    <string name="welcome1">Welcome to the face recognition system.</string>
+    <string name="welcome2">Tap the button to take a selfie!</string>
+
+    <string name="similarity">similarity</string>
+    <string name="name">name</string>
+    <string name="not">No, not me</string>
+    <string name="yes">Yes, it\'\s me</string>
+
+    <string name="newUser">It seems that you are a new user!</string>
+    <string name="inputName">Please input your name:</string>
+    <string name="nameText">e.g. Allen</string>
+    <string name="checkName">OK!</string>
+
+</resources>
